@@ -1,0 +1,638 @@
+Target_ID	Kingdom	Phylum	Class	Order	Family	Genus	Species
+562	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+817	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+818	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides thetaiotaomicron
+820	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis
+821	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola vulgatus
+823	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides distasonis
+853	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium prausnitzii
+901	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio piger
+1318	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus parasanguinis
+1512	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnoclostridium	[Clostridium] symbiosum
+1522	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	[Clostridium] innocuum
+1547	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	Thomasclavelia ramosa
+28116	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides ovatus
+28117	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis
+28118	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Odoribacteraceae	Odoribacter	Odoribacter splanchnicus
+29347	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnoclostridium	[Clostridium] scindens
+29348	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	Thomasclavelia spiroformis
+29523	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp.
+33025	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium faecium
+33038	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	[Ruminococcus] gnavus
+33039	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	[Ruminococcus] torques
+35833	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila wadsworthia
+39485	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospira	Lachnospira eligens
+39490	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium ramulus
+40518	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus bromii
+40520	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia obeum
+41200	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp.
+46503	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides merdae
+46506	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides stercoris
+47678	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae
+53443	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia hydrogenotrophica
+59620	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	uncultured Clostridium sp.
+84112	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Eggerthella	Eggerthella lenta
+85831	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides acidifaciens
+88431	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea longicatena
+100884	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Coprobacillus	Coprobacillus cateniformis
+105841	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes caccae
+162156	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	uncultured Bacteroides sp.
+165185	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	uncultured Eubacterium sp.
+165187	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	uncultured Bifidobacterium sp.
+169435	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Anaerotruncus	Anaerotruncus colihominis
+208479	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	Enterocloster bolteae
+214856	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes finegoldii
+216816	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium longum
+259315	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	uncultured Faecalibacterium sp.
+292800	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	Flavonifractor plautii
+301301	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia hominis
+342942	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter glycyrrhizinilyticus
+371601	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides xylanisolvens
+411486	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. M62/1
+418240	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia wexlerae
+446660	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	Adlercreutzia equolifaciens
+454154	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Paraprevotella	Paraprevotella clara
+457389	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. 3_1_13
+469588	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. 2_1_22
+487175	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella excrementihominis
+512296	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	uncultured Phascolarctobacterium sp.
+536633	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia glucerasea
+538949	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	uncultured Alistipes sp.
+745368	Bacteria	Bacillota	Clostridia	Eubacteriales		Gemmiger	Gemmiger formicilis
+765821	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	uncultured Blautia sp.
+871665	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia faecis
+875803	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	uncultured Adlercreutzia sp.
+876091	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	uncultured Oscillibacter sp.
+1150298	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Fusicatenibacter	Fusicatenibacter saccharivorans
+1226322	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter sp. KLE 1728
+1335613	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Gordonibacter	Gordonibacter urolithinfaciens
+1501391	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes inops
+1505656	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Romboutsia	uncultured Romboutsia sp.
+1550024	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	Ruthenibacterium lactatiformans
+1623490	Bacteria	Bacillota	Clostridia	Eubacteriales		Gemmiger	uncultured Gemmiger sp.
+1650661	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium phoceensis
+1653434	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Sellimonas	Sellimonas intestinalis
+1720294	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Eisenbergiella	Eisenbergiella massiliensis
+1720313	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Bittarella (ex Durand et al. 2017)	Bittarella massiliensis (ex Durand et al. 2017)
+1796628	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Longibaculum	Longibaculum muris
+1869337	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp.
+1870988	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor phocaeensis
+1871003	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Tidjanibacter	Tidjanibacter massiliensis
+1872444	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp.
+1905345	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	Ruthenibacterium sp.
+1912855	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Faecalimonas	Faecalimonas umbilicata
+1929886	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Eggerthella	Eggerthella sp.
+1955243	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp.
+1965576	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor sp. An184
+1965588	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Anaerofilum	Anaerofilum sp. An201
+1971605	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp.
+2041842	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Neobittarella	Neobittarella massiliensis
+2044459	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. E2661
+2049027	Bacteria	Bacillota	Clostridia	Eubacteriales		Gemmiger	Gemmiger sp.
+2049037	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella sp.
+2049039	Bacteria	Bacillota	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium sp.
+2082625	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. R11
+2211183	Bacteria	Bacillota	Clostridia	Eubacteriales		Evtepia	Evtepia gabavorous
+2292200	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF12-19
+2292201	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF12-28
+2292308	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. OF03-18AA
+2292350	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. AM46-8
+2292357	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. OM04-11BH
+2292920	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF18-33
+2292937	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM07-18
+2292951	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM37-9
+2292952	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM41-16
+2292958	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AF14-40
+2292959	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AF17-9LB
+2292960	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AF19-1
+2292962	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AF19-13LB
+2292968	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AF34-10
+2292972	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AM28-10
+2292979	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AM47-4
+2292981	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. OF09-25XD
+2292982	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. OF11-22
+2292983	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. OM05-6
+2292990	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. TM10-2
+2293011	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF34-10BH
+2293024	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM22-11AC
+2293028	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM29-11AC
+2302957	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. AM43-5AT
+2305241	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF28-12
+2305242	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM34-11AC
+2315463	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. BCRC 81149
+2316022	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp.
+2364792	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Intestinibacillus	Intestinibacillus sp. Marseille-P6563
+2509664	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. HH154_1D
+2580425	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. Marseille-P9312
+2592642	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. MCC328
+2652274	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Eisenbergiella	Eisenbergiella porci
+2714358	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pusillibacter	Pusillibacter faecalis
+2717812	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. E.sYA108
+2719315	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	Enterocloster sp.
+2763047	Bacteria	Bacillota	Clostridia	Eubacteriales		Flintibacter	Flintibacter faecis
+2763054	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter hominis
+2763645	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriales Family XIII. Incertae Sedis	Lentihominibacter	Lentihominibacter hominis
+2763663	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	Enterocloster hominis
+2763667	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Wansuia	Wansuia hejianensis
+2773926	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp.
+2787130	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. D55t1_190419_H1
+2787131	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. 1001275B_160808_F8
+2817018	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. Marseille-Q4896
+2849168	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. MSK.17.76
+2870771	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. NIC20
+2870774	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. NIC26-1
+2881265	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium hominis (ex Afrizal et al. 2022)
+2883262	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. 210702-DFI.1.159
+2885261	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. DFI.3.45
+2885262	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. DFI.6.71
+2885357	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Hominenteromicrobium	Hominenteromicrobium mulieris
+2929489	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. IP-3-29
+2929493	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I3-3-89
+2931401	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Cuneatibacter	Cuneatibacter sp. NSJ-177
+2935450	Bacteria	Pseudomonadota	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia sp. 10290
+2963705	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	Adlercreutzia sp. DFI.6.23
+2965272	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. SL.2.06
+2981724	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Alitiscatomonas	Alitiscatomonas aceti
+2981769	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Brotolimicola	Brotolimicola acetigignens
+2981771	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Laedolimicola	Laedolimicola ammoniilytica
+2981789	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea amylophila
+3032125	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Neopoerus	Neopoerus faecalis
+3044208	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. YH-rum2234
+3078043	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Neglectibacter	Neglectibacter sp. CSJ-5
+885	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio sp.
+1506	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp.
+28052	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospira	Lachnospira pectinoschiza
+39486	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea formicigenerans
+39488	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerobutyricum	Anaerobutyricum hallii
+39491	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Agathobacter	Agathobacter rectalis
+39496	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium ventriosum
+41978	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp.
+74426	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella aerofaciens
+89014	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia luti
+93974	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AR20
+93975	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AR29
+105843	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerobutyricum	Anaerobutyricum soehngenii
+106588	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor capillosus
+153152	Bacteria	Bacillota	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	uncultured Lactobacillus sp.
+154046	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Hungatella	Hungatella hathewayi
+165186	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	uncultured Ruminococcus sp.
+166486	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia intestinalis
+167968	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	uncultured Desulfovibrio sp.
+180164	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia schinkii
+239935	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila
+286138	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	uncultured Dorea sp.
+301302	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia faecis
+310297	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola plebeius
+310298	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola coprocola
+316088	Bacteria	Actinomycetota	Actinomycetes	Micrococcales	Micrococcaceae	Rothia	uncultured Rothia sp.
+328814	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes shahii
+329854	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides intestinalis
+411483	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium duncaniae
+457387	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. 1_1_30
+460384	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	Enterocloster lavalensis
+474960	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Hydrogenoanaerobacterium	Hydrogenoanaerobacterium saccharovorans
+512312	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	uncultured Parabacteroides sp.
+512318	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	uncultured Anaerostipes sp.
+585544	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. D22
+592978	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter faecis
+626930	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fluxus
+649756	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes hadrus
+674529	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides faecis
+990718	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	uncultured Phocaeicola sp.
+1160721	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus bicirculans (ex Wegman et al. 2014)
+1262962	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. CAG:57
+1288121	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes senegalensis
+1470347	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes ihumii
+1638783	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia sp. UNK.MGS-1
+1712515	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus faecihominis
+1766256	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Agathobacter	uncultured Agathobacter sp.
+1796613	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caecimuris
+1796636	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Frisingicoccus	Frisingicoccus caecimuris
+1851428	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium longum
+1872530	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes sp.
+1896967	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia sp. 54_46
+1926283	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium edouardi
+1945593	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter sp.
+1965540	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Massilimicrobiota	Massilimicrobiota sp. An105
+1965560	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnoclostridium	Lachnoclostridium sp. An138
+1981510	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Monoglobus	Monoglobus pectinilyticus
+2021311	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Agathobacter	Agathobacter sp.
+2070686	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Enteroscipio	Enteroscipio rubneri
+2080749	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp. Marseille-P4042
+2086273	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Subdoligranulum	Subdoligranulum sp. APC924/74
+2093857	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	Dysosmobacter welbionis
+2292014	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AF37-9
+2292216	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AF18-33LB
+2292248	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF17-22AC
+2292294	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. AM28-25
+2292299	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. OF13-6
+2292304	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM33-3
+2292311	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. OM02-18AC
+2292330	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. TF05-9AC
+2292372	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM42-11
+2292918	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF16-7
+2292926	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF26-10BH
+2292930	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF33-23
+2292932	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF35-22
+2292933	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF36-11BH
+2292934	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF37-16AC
+2292955	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM54-2NS
+2292973	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AM28-27
+2292986	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. TF10-30
+2292993	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF02-29
+2293030	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM34-9AC
+2293042	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. OM04-7
+2293098	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp. AM10-31
+2293144	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. TF10-5
+2293152	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF17-1AC
+2316024	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	uncultured Mediterraneibacter sp.
+2316025	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter butyricigenes
+2358141	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerotignum	Anaerotignum faecicola
+2569100	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerobutyricum	uncultured Anaerobutyricum sp.
+2584647	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. BIOML-A3
+2584648	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. BIOML-A4
+2591384	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	uncultured Dysosmobacter sp.
+2592638	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. MCC269
+2606635	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Waltera	Waltera intestinalis
+2714355	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Vescimonas	Vescimonas coprocola
+2763020	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. NSJ-48
+2763028	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia intestinalis
+2763040	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea hominis
+2763672	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Simiaoa	Simiaoa sunii
+2764712	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriales Family XIII. Incertae Sedis	Lentihominibacter	Lentihominibacter faecis
+2787081	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. D40t1_170626_H2
+2787127	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. BSD2780120874_150323_B10
+2817020	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. Marseille-Q4164
+2817021	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. Marseille-Q4137
+2841526	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter sp. MSJ-31
+2849174	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. MSK.20.82
+2878202	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. FMB-CY1
+2881266	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. CLA-AA-H233
+2885264	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. DFI.1.216
+2885352	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Hominiventricola	Hominiventricola filiformis
+2885356	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Hominilimicola	Hominilimicola fabiformis
+2885361	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Brotaphodocola	Brotaphodocola catenula
+2914163	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Lawsonibacter	Lawsonibacter sp. OA9
+2929490	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I2-3-92
+2941327	Bacteria	Bacillota	Clostridia	Eubacteriales		Flintibacter	Flintibacter muris
+2949649	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. Y3-G-102
+2949660	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. B1-V-101
+2981726	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Hominimerdicola	Hominimerdicola aceti
+2981770	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Gallintestinimicrobium	Gallintestinimicrobium propionicum
+2981773	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Muriventricola	Muriventricola aceti
+2981774	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Suilimivivens	Suilimivivens aceti
+3002516	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. AM78-15b2TA
+3028070	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Claveliimonas	Claveliimonas bilis
+3031725	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. DFI.5.82
+3039593	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Parablautia	Parablautia sp. Marseille-Q6255
+3061040	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp. GP0067
+3064195	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Brotocaccenecus	Brotocaccenecus cirricatena
+1304	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius
+1532	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia coccoides
+1735	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella biformis
+2173	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	Methanobrevibacter smithii
+28111	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides eggerthii
+29363	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium paraputrificum
+33945	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	Enterococcus avium
+89153	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnoclostridium	[Clostridium] hylemonae
+159268	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	uncultured Veillonella sp.
+167972	Bacteria	Bacillota	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus	uncultured Enterococcus sp.
+204516	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola massiliensis
+328812	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides goldsteinii
+338188	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides finegoldii
+457390	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. 3_1_23
+512294	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	uncultured Akkermansia sp.
+556259	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. D2
+693988	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila sp. 4_1_30
+1034346	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Dielma	Dielma fastidiosa
+1872421	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia sp.
+1917868	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia marasmi
+1926307	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Veillonella	Veillonella sp.
+1982626	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	Faecalibacillus intestinalis
+2025659	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. KFT8
+2109686	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. GAM44
+2292227	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AF28-5AC
+2292322	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AM43-1
+2292924	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF25-38AC
+2292927	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF27-10BH
+2292957	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. OF03-11BH
+2293035	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM49-4BH
+2293044	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. OM05-6BH
+2293046	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. OM05-9BH
+2302955	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. AF10-46
+2305240	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM25-23AC
+2584646	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. BIOML-A2
+2652276	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella porci
+2678899	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	uncultured Faecalibacillus sp.
+2726452	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	Faecalibacillus sp. H12
+2841525	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor sp. MSJ-30
+2849169	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. MSK.18.22
+2849171	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. MSK.18.39
+2884903	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	Faecalibacillus sp. MSK20_93
+2884904	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	Faecalibacillus sp. TM498
+2884907	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	Faecalibacillus sp. TM111
+2929488	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. IP-1-18
+2929495	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I4-3-84
+2939491	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. GYB001
+2981784	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	[Clostridium] ammoniilyticum
+2997294	Bacteria	Bacillota	Clostridia	Eubacteriales		Gemmiger	Gemmiger qucibialis
+3025759	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Coprobacillaceae	Thomasclavelia	uncultured Thomasclavelia sp.
+729	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus parainfluenzae
+1308	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus thermophilus
+1309	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus mutans
+1680	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium adolescentis
+1686	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium catenulatum
+28051	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospira	Lachnospira multipara
+83427	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	uncultured Streptococcus sp.
+116085	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus catus
+237779	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	uncultured Haemophilus sp.
+261299	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Intestinibacter	Intestinibacter bartlettii
+290055	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Faecalicatena	Faecalicatena fissicatena
+357276	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola dorei
+360807	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia inulinivorans
+387090	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola coprophilus
+457393	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. 4_1_36
+487174	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	Barnesiella intestinihominis
+512314	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	uncultured Roseburia sp.
+657323	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. SR1/5
+1193534	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Flavonifractor	uncultured Flavonifractor sp.
+1712675	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter sp. H121
+1715211	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus sp. HMSC061E01
+1737424	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia massiliensis (ex Durand et al. 2017)
+1739517	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. HMSC073E02
+1776391	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Romboutsia	Romboutsia timonensis
+1796652	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Turicimonas	Turicimonas muris
+1871035	Bacteria	Bacillota				Negativibacillus	Negativibacillus massiliensis
+1912894	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides kribbi
+1912896	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides koreensis
+1918613	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	Muribaculum	uncultured Muribaculum sp.
+1929485	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila sp.
+1982628	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Faecalibacillus	Faecalibacillus faecis
+2025876	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. CT06
+2039243	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerotignum	uncultured Anaerotignum sp.
+2040332	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp.
+2049040	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp.
+2292041	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp. AF36-15AT
+2292206	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF27-2AA
+2292244	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor sp. AF19-9AC
+2292913	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF04-22
+2292915	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF15-14LB
+2292931	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF34-31BH
+2292936	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF39-16AC
+2292946	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM26-2
+2292953	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM44-19
+2292976	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AM42-2
+2292980	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. OF03-13
+2292989	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. TF12-31AT
+2293013	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF35-15
+2293015	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF36-4
+2293016	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AF37-5
+2293029	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AM32-2
+2293053	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. TF11-13AC
+2293054	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. TM06-18
+2293127	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF12-17LB
+2293130	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF22-2LB
+2293132	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF25-13LB
+2293134	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF25-18LB
+2293135	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF25-25LB
+2293154	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF17-6
+2293160	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF20-12LB
+2293216	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM43-6
+2302956	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. AF27-11BH
+2592649	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. MCC718
+2606633	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Oliverpabstia	Oliverpabstia intestinalis
+2714353	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Vescimonas	Vescimonas fastidiosa
+2735723	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter bilis
+2763025	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides parvus
+2763042	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	Dysosmobacter segnis
+2763051	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnospira	Lachnospira hominis
+2763064	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia zhanii
+2763066	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus intestinalis
+2763644	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriales Family XIII. Incertae Sedis	Zhenpiania	Zhenpiania hominis
+2787114	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. D54t1_190329_F1
+2817019	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. Marseille-Q0746
+2831966	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. FMBCY1
+2881261	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. CLA-AA-H209
+2881264	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia fusiformis
+2883185	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. MSK18_10
+2883231	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp. 210702-DFI.3.120
+2883232	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp. 210702-DFI.5.30
+2883234	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. 210928-DFI.4.42
+2885351	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Hominisplanchenecus	Hominisplanchenecus faecis
+2931882	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. NSJ-166
+2949744	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. MB18-30
+2965279	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. DFI.5.61
+2981768	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anthropogastromicrobium	Anthropogastromicrobium aceti
+2981788	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea ammoniilytica
+2981794	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia amylophila
+3046322	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus sp. UMB1048
+3046382	Bacteria	Bacillota	Clostridia	Eubacteriales	Aristaeellaceae	Aristaeella	Aristaeella hokkaidonensis
+3046383	Bacteria	Bacillota	Clostridia	Eubacteriales	Aristaeellaceae	Aristaeella	Aristaeella lactis
+1343	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus vestibularis
+1358	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis
+1359	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus cremoris
+1681	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum
+1683	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium angulatum
+1685	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium breve
+33033	Bacteria	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	Parvimonas	Parvimonas micra
+33043	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus eutactus
+36834	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium celatum
+39482	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Faecalicatena	Faecalicatena contorta
+40545	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Sutterella	Sutterella wadsworthensis
+154288	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter sanguinis
+172901	Bacteria	Lentisphaerota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	Victivallis vadensis
+253161	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter	uncultured Methanobrevibacter sp.
+278064	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Dialister	uncultured Dialister sp.
+328813	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes onderdonkii
+351091	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter valericigenes
+626947	Bacteria	Pseudomonadota	Betaproteobacteria	Burkholderiales	Sutterellaceae	Parasutterella	Parasutterella secunda
+665942	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio sp. 6_1_46AFAA
+673271	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Catenibacillus	Catenibacillus scindens
+751585	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. ART55/1
+1099853	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Coprobacter	Coprobacter fastidiosus
+1115758	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Romboutsia	Romboutsia ilealis
+1221379	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	uncultured Pseudoflavonifractor sp.
+1261634	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. 499
+1262881	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. CAG:161
+1262950	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. CAG:108
+1263547	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter ruminantium
+1297617	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	Intestinimonas butyriciproducens
+1414720	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium saudiense
+1468449	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemania	Holdemania massiliensis
+1505654	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Terrisporobacter	uncultured Terrisporobacter sp.
+1505659	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Intestinibacter	uncultured Intestinibacter sp.
+1519439	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter sp. ER4
+1577792	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Terrisporobacter	Terrisporobacter othiniensis
+1637497	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. A254.MGS-108
+1650663	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Fournierella	Fournierella massiliensis
+1673721	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	Intestinimonas massiliensis (ex Afouda et al. 2020)
+1689270	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	Intestinimonas timonensis
+1715176	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. HMSC064D12
+1768767	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. CCH8-H5
+1796635	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Longicatena	Longicatena caecimuris
+1852384	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Massiliimalia	Massiliimalia massiliensis
+1871018	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Angelakisella	Angelakisella massiliensis
+1871020	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. Marseille-P3244
+1905347	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruthenibacterium	uncultured Ruthenibacterium sp.
+1945634	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus porcorum
+1969173	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. LMAG:89
+1971762	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella sp.
+2023260	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Megasphaera	Megasphaera sp.
+2086583	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoruminococcus	Pseudoruminococcus massiliensis
+2086584	Bacteria	Bacillota	Clostridia	Eubacteriales		Massilistercora	Massilistercora timonensis
+2292346	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp. AM58-8
+2293096	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. TF11-13
+2293097	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp. AF24-7LB
+2293103	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. AF15-50
+2293129	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF20-18LB
+2293131	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF22-8AC
+2293136	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. AF34-16
+2293141	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. OM04-10AA
+2293142	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. OM04-10BH
+2293143	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia sp. OM04-15AA
+2293148	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF16-40
+2293150	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF17-11
+2293180	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF42-10
+2293181	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF43-11
+2293190	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM26-12LB
+2293195	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM28-29LB
+2293203	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM31-32
+2293206	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM34-10LB
+2293209	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AM36-18
+2304576	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Pseudoflavonifractor	Pseudoflavonifractor sp. 60
+2508949	Bacteria	Bacillota	Clostridia	Candidatus Borkfalkiales	Candidatus Borkfalkiaceae	Candidatus Borkfalkia	Candidatus Borkfalkia ceftriaxoniphila
+2582419	Bacteria	Bacillota	Negativicutes	Veillonellales	Veillonellaceae	Dialister	Dialister hominis
+2584635	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. BIOML-A1
+2585118	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes communis
+2591382	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Dysosmobacter	Dysosmobacter sp.
+2605776	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp. WCA-178-WT-4B
+2606638	Bacteria	Spirochaetota	Spirochaetia	Spirochaetales	Spirochaetaceae	Bullifex	Bullifex porci
+2707299	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	Adlercreutzia hattorii
+2762571	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. 9.1
+2763027	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia difficilis
+2763048	Bacteria	Bacillota	Clostridia	Eubacteriales		Flintibacter	Flintibacter hominis
+2763056	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Oscillibacter	Oscillibacter hominis
+2763656	Bacteria	Bacillota	Clostridia	Eubacteriales	Christensenellaceae	Guopingia	Guopingia tenuis
+2763661	Bacteria	Bacillota	Clostridia	Eubacteriales	Bianqueaceae	Bianquea	Bianquea renquensis
+2763673	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Yanshouia	Yanshouia hominis
+2764327	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella hominis
+2764597	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Romboutsia	Romboutsia faecis
+2773933	Bacteria	Bacillota	Clostridia	Eubacteriales		Evtepia	Evtepia sp.
+2787099	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. D33t1_170424_F3
+2787115	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. J1101004_170508_H5
+2787121	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. 1001136B_160425_D2
+2806443	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter sp. TJ11
+2841532	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	Intestinimonas sp. MSJ-38
+2849167	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium sp. MSK.17.10
+2860051	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. KLE_1732_HM_1032
+2866597	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. Marseille-Q3604
+2885263	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	Holdemanella sp. DFI.5.55
+2914164	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. OA3
+2929491	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. HTF-F
+2949662	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. B2-R-112
+2951140	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Turicibacteraceae	Turicibacter	Turicibacter sp. GALT-G1
+2981721	Bacteria	Bacillota	Clostridia	Eubacteriales		Brotomerdimonas	Brotomerdimonas butyrica
+2981728	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Huintestinicola	Huintestinicola butyrica
+2981779	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes amylophilus
+2981781	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	Barnesiella propionica
+2981787	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea acetigenes
+2986996	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. 1001136sp1
+3030017	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Caproiciproducens	Caproiciproducens sp. CPB-2
+3053763	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. VTCC 12813
+736	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus paraphrohaemolyticus
+1507	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. ATCC 29733
+28025	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium animalis
+28026	Bacteria	Actinomycetota	Actinomycetes	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium pseudocatenulatum
+28127	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Prevotellaceae	Hoylesella	Hoylesella buccalis
+33031	Bacteria	Bacillota	Tissierellia	Tissierellales	Peptoniphilaceae	Peptoniphilus	Peptoniphilus lacrimalis
+61171	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemania	Holdemania filiformis
+82135	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Fannyhessea	Fannyhessea vaginae
+113107	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus australis
+270498	Bacteria	Bacillota	Clostridia	Eubacteriales	Christensenellaceae	Christensenella	Christensenella hongkongensis
+291644	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides salyersiae
+291645	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides nordii
+410072	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus comes
+457398	Bacteria	Thermodesulfobacteriota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio sp. 3_1_syn3
+469590	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. 2_2_4
+544645	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Odoribacteraceae	Butyricimonas	Butyricimonas virosa
+626929	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides clarus
+626931	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides oleiciplenus
+936576	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. ACS2
+999425	Bacteria	Bacillota	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus sp. F0442
+1226325	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. KLE 1755
+1337051	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Murimonas	Murimonas intestini
+1608898	Bacteria	Pseudomonadota	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus sp. HMSC71H05
+1673717	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Anaeromassilibacillus	Anaeromassilibacillus senegalensis
+1689265	Bacteria	Bacillota	Clostridia	Eubacteriales		Intestinimonas	uncultured Intestinimonas sp.
+1720194	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Clostridium	Clostridium sp. AT4
+1776382	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Neglectibacter	Neglectibacter timonensis
+1805476	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. Marseille-P2398
+1870991	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Massilioclostridium	Massilioclostridium coli
+1870993	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus phoceensis
+1871006	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides congonensis
+1897013	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. merdae-related_45_40
+1917876	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. Marseille-P3087
+1965305	Bacteria	Bacillota	Clostridia	Eubacteriales	Peptostreptococcaceae	Terrisporobacter	Terrisporobacter sp.
+1965542	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. An11
+1965628	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. An3
+1969738	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Odoribacteraceae	Butyricimonas	Butyricimonas sp.
+2040291	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea phocaeensis
+2292026	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AM16-21
+2292046	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Lachnotalea	Lachnotalea sp. AF33-28
+2292197	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. AF15-40
+2292213	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AF14-35
+2292223	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AF23-3LB
+2292233	Bacteria	Bacillota	Clostridia	Eubacteriales	Eubacteriaceae	Eubacterium	Eubacterium sp. AF22-9
+2292282	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. OM05-10AA
+2292316	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AM34-10
+2292318	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AM38-1BH
+2292326	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. OM04-5
+2292329	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. OM08-14AT
+2292331	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. TF06-6AC
+2292949	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM30-16
+2292950	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM32-11AC
+2292974	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia sp. AM28-36
+2293114	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. AF19-14
+2293124	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp. OF04-13BH
+2293153	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF17-24
+2293155	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. AF17-6LB
+2584645	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. BIOML-A1
+2613924	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Hungatella	Hungatella sp.
+2719317	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Enterocloster	uncultured Enterocloster sp.
+2758418	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes sp. Marseille-Q3525
+2763062	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Roseburia	Roseburia rectibacter
+2763662	Bacteria	Bacillota	Clostridia	Eubacteriales	Yeguiaceae	Yeguia	Yeguia hominis
+2763677	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Zongyangia	Zongyangia hominis
+2779351	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Claveliimonas	Claveliimonas monacensis
+2787089	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Ruminococcus	Ruminococcus sp. 1001713B170214_170313_A12
+2849172	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. MSK.18.83
+2883208	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Dorea	Dorea sp. 210702-DFI.3.17
+2916441	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Adlercreutzia	Adlercreutzia rubneri
+2929492	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Faecalibacterium	Faecalibacterium sp. I3-3-33
+2941333	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter agrestimuris
+2941505	Bacteria	Actinomycetota	Coriobacteriia	Eggerthellales	Eggerthellaceae	Anaerotardibacter	Anaerotardibacter muris
+2965278	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. DFI.6.81
+2981722	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Porcipelethomonas	Porcipelethomonas ammoniilytica
+2981778	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Agathobaculum	Agathobaculum ammoniilyticum
+2997946	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. AF102-57
+2997952	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. TM115-187
+2997993	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. AM97-06
+2997994	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Coprococcus	Coprococcus sp. LG100-32
+3002515	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. AF86-03b2A
+3002517	Bacteria	Bacillota	Clostridia	Eubacteriales	Clostridiaceae	Butyricicoccus	Butyricicoccus sp. OF27-2pH9A
+33035	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Blautia	Blautia producta
+585543	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. D20
+1763549	Bacteria	Bacillota	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella	uncultured Holdemanella sp.
+2018038	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. TF06-26
+2025494	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes hominis (ex Lee et al. 2021)
+2068655	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Novisyntrophococcus	Novisyntrophococcus fermenticellae
+2108523	Bacteria	Bacillota	Clostridia	Eubacteriales	Oscillospiraceae	Lawsonibacter	Lawsonibacter asaccharolyticus
+2292021	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. AM10-32
+2292193	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF26-7BH
+2292280	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. OF02-3LB
+2292324	Bacteria	Actinomycetota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella	Collinsella sp. OF02-10
+2302925	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AF32-8BH
+2302926	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. AM56-10ce
+2305243	Bacteria	Bacillota	Clostridia	Eubacteriales	Desulfotomaculaceae	Desulfotomaculum	Desulfotomaculum sp. OF05-3
+2763018	Bacteria	Bacillota	Clostridia	Eubacteriales	Lachnospiraceae	Anaerostipes	Anaerostipes hominis (ex Liu et al. 2021)
+2972764	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides sp. BFG-637
